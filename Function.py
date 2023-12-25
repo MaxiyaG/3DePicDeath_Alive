@@ -18,7 +18,7 @@ def IntroPopup():
     Si l'utilisateur ne souhaite pas jouer, il peut quitter le jeu.
     """
 
-    Bienvenue = "Bienvenue chez Joueur !\n"
+    Bienvenue = "Bienvenue cher Joueur !\n"
     regles = """Ce jeu est inspiré de la série "Alice in borderland", le jeu du 3 de Pic présent dans l'épisode 1.\n\nVoici les règles :
     Dans chaque pièce, deux portes sont présentes : l'une est étiquetée 'Vie' et l'autre 'Mort'.
     Une de ces portes conduit à une salle suivante, tandis que l'autre mène à une fin prématurée.
